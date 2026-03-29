@@ -4,6 +4,7 @@ export const aartis = [
     deity: 'Ganesha',
     name: 'Jai Ganesh Deva',
     devanagari: 'जय गणेश देवा',
+    youtubeId: 'dTCDFgSEsM8',
     verses: [
       {
         hindi: 'जय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा॥',
@@ -32,6 +33,7 @@ export const aartis = [
     deity: 'Vishnu',
     name: 'Om Jai Jagdish Hare',
     devanagari: 'ॐ जय जगदीश हरे',
+    youtubeId: 'sHYSJEnCclU',
     verses: [
       {
         hindi: 'ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।\nभक्त जनों के संकट, दास जनों के संकट,\nक्षण में दूर करे॥',
@@ -60,6 +62,7 @@ export const aartis = [
     deity: 'Durga',
     name: 'Jai Ambe Gauri',
     devanagari: 'जय अम्बे गौरी',
+    youtubeId: 'F0c4cVkFCkc',
     verses: [
       {
         hindi: 'जय अम्बे गौरी, मैया जय श्यामा गौरी।\nतुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी॥',
@@ -83,6 +86,7 @@ export const aartis = [
     deity: 'Hanuman',
     name: 'Aarti Kije Hanuman Lala Ki',
     devanagari: 'आरती कीजे हनुमान लला की',
+    youtubeId: 'kMSdXSMGVPQ',
     verses: [
       {
         hindi: 'आरती कीजे हनुमान लला की।\nदुष्ट दलन रघुनाथ कला की॥',
@@ -109,6 +113,7 @@ export const aartis = [
   {
     id: 'lakshmi-aarti',
     deity: 'Lakshmi',
+    youtubeId: 'XF3bIKaWOdM',
     name: 'Om Jai Lakshmi Mata',
     devanagari: 'ॐ जय लक्ष्मी माता',
     verses: [
@@ -132,6 +137,7 @@ export const aartis = [
   {
     id: 'shiv-aarti',
     deity: 'Shiva',
+    youtubeId: 'vp7EJgWiB3s',
     name: 'Om Jai Shiv Omkara',
     devanagari: 'ॐ जय शिव ओंकारा',
     verses: [

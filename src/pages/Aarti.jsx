@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { aartis } from '../data/aartis';
+import AartiPlayer from '../components/AartiPlayer';
 
 function DiyaIcon() {
   return (
@@ -91,6 +92,13 @@ export default function Aarti() {
                 </div>
               </div>
             </div>
+
+            {/* Audio Player */}
+            <AartiPlayer
+              youtubeId={selectedAarti.youtubeId}
+              aartiName={selectedAarti.name}
+              deity={selectedAarti.deity}
+            />
 
             {/* View mode toggle */}
             <div className="flex gap-2 mb-6 flex-wrap">
